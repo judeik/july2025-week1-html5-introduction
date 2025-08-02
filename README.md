@@ -1,35 +1,93 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jecSxI3G)
-# 📘 Assignment: HTML5 + Accessibility & SEO Basics
+# Divine Heritage Computer - Portfolio Landing Page
 
-## Overview
+This is a beginner-friendly, SEO-optimized, and responsive HTML5 landing page for **Divine Heritage Computer**, a certified ICT training center based in Nsukka, Enugu State, Nigeria. It serves as a digital profile and course advertisement for in-demand tech and administrative skills.
 
-This assignment will help you solidify your understanding of modern HTML5 structure while applying foundational concepts of web accessibility and search engine optimization (SEO). You’ll create a simple, semantically correct web page that prioritizes both human and machine readability—two pillars of great web design.
+---
 
-## Objective
+## 📌 Project Overview
 
-Build a basic web page using HTML5 semantic tags, applying accessibility best practices and beginner-friendly SEO principles. Your final output should demonstrate a well-structured layout that supports screen readers and is optimized for discoverability.
+This static HTML project showcases:
 
-## Guidelines
+- 📍 CAC Registered Company: **DE23248**
+- 🎓 Basic to Advanced Computer Training:
+  - Office Management
+  - Google Workspace
+  - Virtual Assistant Training
+  - Node.js & MongoDB (Backend Basics)
+- 🖥️ Real training gallery and testimonials
+- 📞 Contact section with address, email, and phone
+- ✅ Responsive design supporting devices from **200px** width upward
+- 🌐 SEO-friendly structure with Open Graph and meta tags
+- 🧑‍💻 Clean and semantic HTML5 structure with accessibility features
 
-Use only HTML5. No CSS or JavaScript is required at this stage. Focus on using meaningful semantic elements to structure your page. Avoid using `<div>` or `<span>` unless absolutely necessary. Ensure your page has clearly defined sections such as a header, navigation, main content, and a footer.
+---
 
-Incorporate accessibility by using proper HTML5 landmarks and attributes that improve navigation for assistive technologies. Your HTML should reflect thoughtful planning of hierarchy and readability, both for users and search engines.
+## 🗂️ File Structure
 
-For SEO, emphasize the use of heading tags in the correct order, provide descriptive text, and ensure your content is both human-readable and crawler-friendly. Consider how a search engine would interpret your page in terms of structure and content clarity.
+/project-root
+│
+├── index.html # Main page (fully commented & SEO-optimized)
+├── site.webmanifest # Web app manifest (PWA support & favicon link)
+├── README.md # Technical documentation (you are here)
+├── README.txt # Report-style doc for beginner submissions
+└── /images # Favicon & content images
 
-## Deliverables
+---
 
-A single HTML file named `index.html`. It should include:
+## ✅ Key Features
 
-* A semantic structure using appropriate HTML5 elements.
-* Clear headings in a logical hierarchy.
-* Accessibility enhancements using proper tags and attributes.
-* SEO-friendly metadata and content.
+| Feature                         | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| 📱 **Mobile-First Design**     | Supports screen widths as low as 200px for smartwatches and small phones    |
+| 💻 **Beginner-Friendly HTML**  | Semantic HTML with meaningful comments for learners                         |
+| 🔍 **SEO Optimized**           | Uses best practices in titles, alt tags, Open Graph & meta keywords         |
+| 🔗 **Social Media Ready**      | Open Graph tags for Facebook, WhatsApp, Twitter sharing previews            |
+| ⚙️ **Web Manifest Ready**      | Manifest included for progressive web app (PWA) capability                  |
+| 📂 **Clean File Organization** | Clear separation of structure and assets (images, manifest, docs)           |
+| 🧑‍🎓 **Tech-Focused Content**   | Highlights Node.js, MongoDB, and admin tools (Google Workspace, VA skills)  |
 
-## Tips
+---
 
-* Use HTML5 semantic tags appropriately.
-* Organize content with accessibility in mind.
-* Apply basic on-page SEO techniques.
-* Follow clean, readable HTML code structure.
+## 🔧 Technologies Used
 
+- **HTML5** – Semantic structure and accessibility
+- **Open Graph Tags** – Rich preview support
+- **Favicon & Manifest** – Device and platform compatibility
+- **Screen Reader Support** – Accessible navigation and labels
+
+---
+
+## 🌍 Company Information
+
+- **Business Name**: Divine Heritage Computer
+- **CAC Reg. Number**: DE23248  
+- **Phone**: +2348061599859  
+- **Email**: [divinegpc@gmail.com](mailto:divinegpc@gmail.com)  
+- **Address**: 156 Onuiyi Road, Behind Zik's Flat, Nsukka, Enugu State, Nigeria
+
+---
+
+## 💡 Recommendations
+
+| Tool/Framework | Purpose                          |
+|----------------|----------------------------------|
+| CSS Framework (e.g., Bootstrap) | To enhance layout and responsiveness  |
+| JavaScript      | Add interactivity (menu toggle, gallery, etc.) |
+| Git/GitHub      | For version control and collaboration |
+| Netlify / Vercel| For free static hosting          |
+
+---
+
+## 🧾 License
+
+This project is open for educational or personal use. Attribution to **Ojobor Jude Ikechukwu** is appreciated.
+
+---
+
+## 🙌 Acknowledgements
+
+- Inspired by the growing demand for **digital and soft skills** development across Nigeria and Africa.
+- Thanks to all learners, mentors, and institutions contributing to ICT education.
+- Special thanks to all learners, mentors, and institutions advancing ICT education.
+- Credit to Power Learn Project Africa and 3MTT Nigeria for their impactful contributions to tech capacity building.
+  

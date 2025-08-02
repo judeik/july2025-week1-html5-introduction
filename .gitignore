@@ -1,0 +1,25 @@
+# Node modules (if you're using Node.js)
+node_modules/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Backup files
+README.txt
+README-Instructions.txt
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Optional: system cache or compiled assets
+dist/
+build/
+
+# Optional: environment or config files (only if they contain secrets)
+.env
+.env.local

@@ -1,0 +1,26 @@
+{
+  "name": "Divine Heritage Computer",
+  "short_name": "DH Computer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#004080",
+  "description": "Professional computer training from basic to advanced levels in Nsukka, Nigeria. Learn Office Management, Google Workspace, Virtual Assistant, and more.",
+  "icons": [
+    {
+      "src": "images/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
