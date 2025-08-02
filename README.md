@@ -24,13 +24,13 @@ This static HTML project showcases:
 
 ## 🗂️ File Structure
 
-/project-root
-│
-├── index.html # Main page (fully commented & SEO-optimized)
-├── site.webmanifest # Web app manifest (PWA support & favicon link)
-├── README.md # Technical documentation (you are here)
-├── README.txt # Report-style doc for beginner submissions
-└── /images # Favicon & content images
+- /project-root
+- │
+- ├── index.html # Main page (fully commented & SEO-optimized)
+- ├── site.webmanifest # Web app manifest (PWA support & favicon link)
+- ├── README.md # Technical documentation (you are here)
+- ├── README.txt # Report-style doc for beginner submissions
+- └── /images # Favicon & content images
 
 ---
 
